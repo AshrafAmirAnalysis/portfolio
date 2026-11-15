@@ -1,3 +1,5 @@
-title: "Ashraf Hamzah | Portfolio"
+title: "Ashraf Amir"
 description: "Trust & safety investigator building guarded AI and automation tools."
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+baseurl: "/portfolio"
+url: "https://ashrafamiranalysis.github.io"
