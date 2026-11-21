@@ -66,7 +66,7 @@ rules, query playbook and data-access hooks stay the single source of truth.
 | Approve | + document create/edit. **Only after human review, only for qualifying conclusions** |
 
 ## Impact
-- Investigation memo in ~[5-15] min vs ~[30+] minutes by hand.
+- Investigation memo in ~5-15 min vs ~30+ minutes by hand.
 
 ## What I learned
 Putting an AI agent into production work is mostly about boundaries: what it can touch,

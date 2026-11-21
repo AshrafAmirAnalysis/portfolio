@@ -21,7 +21,7 @@ safety rules, then reviewed, tested and verified every release in live use.
   are left to the human
 - Records and replays field "macros" across the case's business process stages
 - Builds a structured hand-off package for an AI-assisted investigation tool
-  (see [Investigation Studio](investigation-studio.md))
+  (see [Investigation Studio](Investigation-studio.md))
 - Team templates live in a shared spreadsheet, so non-developers can edit them and
   the tool can be set up for another team without code changes
 - Side panel plus a pop-out "app window" mode with three experience levels
@@ -68,8 +68,8 @@ safety rules, then reviewed, tested and verified every release in live use.
 ```
 
 ## Impact
-- Per-case handling: ~[10] min → ~[2] min 
-- Closing macro runs end to end in ~16 seconds, versus [~20] manual steps
+- Per-case handling: ~10 min → ~2 min
+- Closing macro runs end to end in ~16 seconds, versus ~20 manual steps
 - Used daily in live operations
 
 ## What I learned

@@ -11,7 +11,7 @@ A Chrome extension that runs CRM case handling end to end (notes, replies, custo
 email, field macros, closure) through the platform's client and Web APIs, with safety
 guards before every write and 350+ automated tests.
 
-### [Investigation Studio](investigation-studio.md)
+### [Investigation Studio](Investigation-studio.md)
 A local web app for an AI investigation agent: per-turn least-privilege tool access,
 read-only data, human approval before any document is written, and a live audit
 trail of every query.
